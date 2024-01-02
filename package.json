@@ -1,0 +1,14 @@
+{
+  "name": "r_02",
+  "version": "1.0.0",
+  "description": "React second module creating app",
+  "main": "script.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Siddhesh Bhosale",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.10.3"
+  }
+}
